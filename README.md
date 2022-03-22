@@ -1,7 +1,8 @@
 ## Dark Mode test with React
 
-### Dependencies
+### Dependencies and Setup
 
+- [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [ReactDOM](https://reactjs.org/docs/dom-elements.html)
 - [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
